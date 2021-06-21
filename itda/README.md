@@ -1,0 +1,1 @@
+Spring Boot Application Itda/Starter-ProjectImportant Note: This project's new milestone is to release version 1, so stay tunedPurpose:Erd-diagram Cloudhttps://www.erdcloud.com/d/W4Le6SDQgDMphMg5E 

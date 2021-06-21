@@ -1,0 +1,1 @@
+package com.osci.kr.itda.repo;import com.osci.kr.itda.entity.Interest;import com.osci.kr.itda.entity.MemberJoinLog;import org.springframework.data.jpa.repository.JpaRepository;public interface MemberJoinLogRepo extends JpaRepository<MemberJoinLog, Long> {}

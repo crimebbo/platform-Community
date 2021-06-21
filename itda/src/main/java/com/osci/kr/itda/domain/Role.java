@@ -1,0 +1,1 @@
+package com.osci.kr.itda.domain;import lombok.AllArgsConstructor;import lombok.Getter;@AllArgsConstructor@Getterpublic enum Role {    GUEST("ROLE_GUEST"),      // 가입 전    ADMIN("ROLE_ADMIN"),    MEMBER("ROLE_USER"),    SNSMEMBER("ROLE_SNS_USER");    private String value;}

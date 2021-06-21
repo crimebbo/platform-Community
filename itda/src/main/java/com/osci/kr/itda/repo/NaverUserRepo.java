@@ -1,0 +1,1 @@
+package com.osci.kr.itda.repo;import com.osci.kr.itda.entity.sns.KakaoUser;import com.osci.kr.itda.entity.sns.NaverUser;import org.springframework.data.jpa.repository.JpaRepository;import java.util.Optional;public interface NaverUserRepo extends JpaRepository<NaverUser, Long> {    Optional<NaverUser> findByUserid(String userId);}

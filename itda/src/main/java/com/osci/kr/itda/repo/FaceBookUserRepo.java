@@ -1,0 +1,1 @@
+package com.osci.kr.itda.repo;import com.osci.kr.itda.entity.Member;import com.osci.kr.itda.entity.sns.FaceBookUser;import org.springframework.data.jpa.repository.JpaRepository;import java.util.Optional;public interface FaceBookUserRepo extends JpaRepository<FaceBookUser, Long> {    Optional<FaceBookUser> findByUserid(String userId);}

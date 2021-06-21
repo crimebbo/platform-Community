@@ -1,0 +1,1 @@
+package com.osci.kr.itda.repo;import com.osci.kr.itda.entity.Interest;import com.osci.kr.itda.entity.LoginLog;import org.springframework.data.jpa.repository.JpaRepository;public interface LoginLogRepo extends JpaRepository<LoginLog, Long> {}

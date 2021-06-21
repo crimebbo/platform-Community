@@ -1,0 +1,1 @@
+package com.osci.kr.itda.repo;import com.osci.kr.itda.entity.sns.FaceBookUser;import com.osci.kr.itda.entity.sns.KakaoUser;import org.springframework.data.jpa.repository.JpaRepository;import java.util.Optional;public interface KakaoUserRepo extends JpaRepository<KakaoUser, Long> {    Optional<KakaoUser> findByUserid(String userId);}

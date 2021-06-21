@@ -1,0 +1,1 @@
+package com.osci.kr.itda.domain;import lombok.AllArgsConstructor;import lombok.Getter;@AllArgsConstructor@Getterpublic enum  Mileage {    regBoard(5),    delBoard(-5),    regReply(3),    delReply(-3),    likeBoard(1),    undoLikeBoard(-1),    likeReply(1),    undoLikeReply(-1),    join(10),    watch(5),    unWatch(-5);    private int value;}

@@ -1,0 +1,1 @@
+package com.osci.kr.itda.repo;import com.osci.kr.itda.entity.MemberJoinLog;import com.osci.kr.itda.entity.MemberManageID;import org.springframework.data.jpa.repository.JpaRepository;import java.util.Optional;public interface MemberMngIDRepo extends JpaRepository<MemberManageID, Long> {    Optional<MemberManageID> findByUserid(String userid);}
