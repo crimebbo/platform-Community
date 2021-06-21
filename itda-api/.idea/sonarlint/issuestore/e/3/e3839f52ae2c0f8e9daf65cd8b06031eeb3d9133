@@ -1,0 +1,43 @@
+
+n
+java:S1192B"SDefine a constant instead of duplicating this literal "fail Reason ::::: " 8 times.(ù—ß•şÿÿÿÿ
+]
+java:S1192>"HDefine a constant instead of duplicating this literal "SUCCESS" 8 times.(—…f
+S
+java:S3655Ç"7Call "downFile.isPresent()" before accessing the value.(³ÑŞôøÿÿÿÿ
+S
+java:S3655æ"7Call "downFile.isPresent()" before accessing the value.(³ÑŞôøÿÿÿÿ
+S
+java:S3655¡"7Call "Optional#isPresent()" before accessing the value.(ùìŞ•úÿÿÿÿ
+T
+java:S1128	"?Remove this unused import 'com.osci.kr.itda.entity.FileUpload'.(Õˆ¡w
+`
+java:S1128"JRemove this unused import 'com.osci.kr.itda.serviceimpl.BoardServiceImpl'.(‚ì›
+U
+java:S1128":Remove this unused import 'com.osci.kr.itda.entity.Board'.(ÂŞß¿ÿÿÿÿÿ
+S
+java:S2387*"8"logger" is the name of a field in "ItDaBaseController".(ò­ğ¿ûÿÿÿÿ
+V
+java:S46848"@Replace this persistent entity with a simple POJO or DTO object.(Å›ïù
+n
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÈ‚
+V
+java:S4684O"@Replace this persistent entity with a simple POJO or DTO object.(Å‡â
+n
+java:S2293["YReplace the type specification in this constructor call with the diamond operator ("<>").(œÈ‚
+n
+java:S2293q"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÈ‚
+o
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÈ‚
+o
+java:S2293¡"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÈ‚
+o
+java:S2293¹"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÈ‚
+X
+java:S1854æ"<Remove this useless assignment to local variable "fileInfo".(³ÑŞôøÿÿÿÿ
+o
+java:S2293†"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÈ‚
+o
+java:S2293›"YReplace the type specification in this constructor call with the diamond operator ("<>").(œÈ‚
+I
+java:S1481æ"-Remove this unused "fileInfo" local variable.(³ÑŞôøÿÿÿÿ
